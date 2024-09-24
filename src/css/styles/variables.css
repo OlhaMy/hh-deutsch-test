@@ -1,0 +1,11 @@
+:root {
+  --font-family: "Manrope", sans-serif;
+  --second-family: "Inter", sans-serif;
+
+  --gradient: linear-gradient(
+    167deg,
+    #3470ff 0%,
+    #113996 61.46%,
+    #0b44cd 90.54%
+  );
+}
